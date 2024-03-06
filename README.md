@@ -1,5 +1,25 @@
 # Analise_Vendas
-Análise exploratória das vendas de uma empresa fictícia no ramo produtos eletrônicos
+Análise exploratória das vendas de uma empresa fictícia no ramo produtos eletrônicos com foco em identificar os principais caracteristicas de vendas da empresa.
+
+A empresa possui 160 funcionários em 8 lojas distribuidas pelo Brasil.
+
+Nota-se que a marca mais vendida é a SONY (93,32%), porém é a marca com menor margem unitária.
+Atualmente a estratégia da empresa está concentrada em escalabilidade das vendas.
+A margem da empresa depende muito da receita da marca SONY (87,79% margem total).
+
+DELL e ALTURA são as marcar com as maiores margens.
+SONY e LOGITECH são as menores.
+
+Quanto as lojas:
+Belo Horizonte possui a maior margem seguida de São Paulo.
+
+O gerente que obeteve o maior volume de vendas foi Rogéro Lopes, com 58 pedidos da loja de São Paulo.
+
+Quanto aos funcionários:
+Loja de Belo Horizonte possui a melhor média por funcionário e São Paulo a pior.
+
+
+
 
 ## 1.	Quais estados e cidades a empresa possui lojas?
 select * from banco.locais;
