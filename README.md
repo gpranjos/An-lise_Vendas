@@ -7,7 +7,7 @@ Nota-se que a marca mais vendida é a SONY (93,32%), porém é a marca com menor
 Atualmente a estratégia da empresa está concentrada em escalabilidade das vendas.
 A margem da empresa depende muito da receita da marca SONY (87,79% margem total).
 
-DELL e ALTURA são as marcar com as maiores margens.
+DELL e ALTURA são as marcars com as maiores margens.
 SONY e LOGITECH são as menores.
 
 Quanto as lojas:
