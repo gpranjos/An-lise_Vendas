@@ -3,8 +3,8 @@ Análise exploratória das vendas de uma empresa fictícia no ramo produtos elet
 
 A empresa possui 160 funcionários em 8 lojas distribuidas pelo Brasil.
 
-Nota-se que a marca mais vendida é a SONY (93,32%), porém é a marca com menor margem unitária.
-Atualmente a estratégia da empresa está concentrada em escalabilidade das vendas.
+A partir dos dados, observamos que a marca mais vendida é a SONY (93,32%), porém é a marca com menor margem unitária.
+Nota-se que a estratégia da empresa está concentrada em escalabilidade das vendas.
 A margem da empresa depende muito da receita da marca SONY (87,79% margem total).
 
 DELL e ALTURA são as marcars com as maiores margens.
@@ -18,8 +18,19 @@ O gerente que obeteve o maior volume de vendas foi Rogéro Lopes, com 58 pedidos
 Quanto aos funcionários:
 Loja de Belo Horizonte possui a melhor média por funcionário e São Paulo a pior.
 
+## Recomendação a partir dos dados
 
+Atualmente, a empresa depende muito da SONY, que embora tenha alto volume de vendas, oferece uma margem unitária baixa. Diversificar e promover marcas como DELL e ALTURA, que possuem maiores margens, pode equilibrar a dependência e aumentar a lucratividade.
 
+Criar pacotes promocionais que combinem produtos da SONY com marcas de maior margem para incentivar os clientes a comprar itens adicionais com melhores margens.
+
+Analisar as práticas das lojas de Belo Horizonte (com melhor desempenho) e implementar estratégias similares em São Paulo e outras localidades com margens menores.
+
+Essas são algumas ações que empresa pode fazer para aumentar tanto as vendas quanto a margem de lucro, ao mesmo tempo em que reduz a dependência de uma única marca e melhora o desempenho geral.
+
+Destaco que são apenas algumas recomendações e que não descarta a necessidade de fazer outras melhorias que não estão em pautas como automatizações, controle de estoque, análise dos custos etc.
+
+Os códigos em linguagem SQL desenvolvido em MYSQL usados para responder as perguntas estão abaixo:
 
 ## 1.	Quais estados e cidades a empresa possui lojas?
 select * from banco.locais;
