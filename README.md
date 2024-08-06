@@ -1,5 +1,5 @@
 # Analise_Vendas
-Análise exploratória das vendas de uma empresa fictícia no ramo produtos eletrônicos com foco em identificar os principais caracteristicas de vendas da empresa.
+Análise exploratória das vendas de uma empresa fictícia no ramo produtos eletrônicos com foco em identificar as principais caracteristicas de vendas da empresa e fazer recomendações a partir dos dados.
 
 A partir dos dados, observamos que a empresa possui 160 funcionários em 8 lojas distribuidas pelo Brasil e que a marca mais vendida é a SONY (93,32%), porém é a marca com menor margem unitária.
 Nota-se que a estratégia da empresa está concentrada em escalabilidade das vendas.
