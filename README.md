@@ -1,9 +1,7 @@
 # Analise_Vendas
 Análise exploratória das vendas de uma empresa fictícia no ramo produtos eletrônicos com foco em identificar os principais caracteristicas de vendas da empresa.
 
-A empresa possui 160 funcionários em 8 lojas distribuidas pelo Brasil.
-
-A partir dos dados, observamos que a marca mais vendida é a SONY (93,32%), porém é a marca com menor margem unitária.
+A partir dos dados, observamos que a empresa possui 160 funcionários em 8 lojas distribuidas pelo Brasil e que a marca mais vendida é a SONY (93,32%), porém é a marca com menor margem unitária.
 Nota-se que a estratégia da empresa está concentrada em escalabilidade das vendas.
 A margem da empresa depende muito da receita da marca SONY (87,79% margem total).
 
