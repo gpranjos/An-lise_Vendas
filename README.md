@@ -8,13 +8,12 @@ A margem da empresa depende muito da receita da marca SONY (87,79% margem total)
 DELL e ALTURA são as marcars com as maiores margens.
 SONY e LOGITECH são as menores.
 
-Quanto as lojas:
-Belo Horizonte possui a maior margem seguida de São Paulo.
+A loja de Belo Horizonte possui a maior margem seguida de São Paulo.
 
 O gerente que obeteve o maior volume de vendas foi Rogéro Lopes, com 58 pedidos da loja de São Paulo.
 
 Quanto aos funcionários:
-Loja de Belo Horizonte possui a melhor média por funcionário e São Paulo a pior.
+Loja de Belo Horizonte possui a maior média por funcionário e São Paulo a menor.
 
 ## Recomendação a partir dos dados
 
